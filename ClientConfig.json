@@ -1,8 +1,8 @@
 {
-	"id": "248ecb72-89cf-5be7-923f-b790fca681c5",
-	"host": "scherehtzhel01.sudoer.net",
+	"id": "de04add9-5c68-8bab-950c-08cd5320df18",
+	"host": "aminumca.eu-hhwtruiofdjd.dopraxrocks.net",
 	"port": "443",
-	"path": "api01",
-	"serverName": "248ecb72-89cf-5be7-923f-b790fca681c5.sudoer.net",
+	"path": "vmess",
+	"serverName": "de04add9-5c68-8bab-950c-08cd5320df18.sudoer.net",
 	"subnetsList": "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/bash/cf.local.iplist"
 }
