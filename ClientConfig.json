@@ -3,6 +3,6 @@
 	"host": "aminumca.eu-hhwtruiofdjd.dopraxrocks.net",
 	"port": "443",
 	"path": "vmess",
-	"serverName": "de04add9-5c68-8bab-950c-08cd5320df18.sudoer.net",
+	"serverName": "aminumca.eu-hhwtruiofdjd.dopraxrocks.net",
 	"subnetsList": "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/bash/cf.local.iplist"
 }
